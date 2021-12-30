@@ -1,0 +1,50 @@
+
+h1{
+    color: white;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+};
+h2{
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+hr{
+    margin: 30px 100px 20px;
+    border: 10;
+    border-top: 8px solid aquamarine;
+}
+button{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration-style: wavy;
+}
+.navbar{
+    font-family: cursive !important;
+    background-color: black;
+}
+
+#center{
+    background-color:lightsteelblue;
+}
+h4{
+    text-align: center;
+}
+#slides{
+    text-align: center;
+    height: 500;
+}
+#jumbo{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+    padding-top: 90px;
+}
+h3{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    color: white;
+}
