@@ -1,0 +1,11 @@
+version: '3'
+services:
+ ss-app:
+  ports:
+        - "8004:8004"
+  build: .
+  restart: always
+  volumes:
+        - ./public/:/usr/src/public
+volumes:
+   public:
