@@ -25,4 +25,4 @@ the site should be running from on http://67.168.147.58:8004/seamen.html
   * Type: `A`
   * Name: `@`
   * TTL: `3600`
-  * Value: `40.122.25.89`
+  * Value: `52.176.156.85`
