@@ -12,7 +12,7 @@ npm run build
 npm run serve
 ```
 
-* Deploy from the local server:
+* Deploy from the local server. SSH into local server, go to `/home/alexb/src/github.com/aa4/sammamish-seamen` and then run:
 
 ```bash
 docker-compose up -d
